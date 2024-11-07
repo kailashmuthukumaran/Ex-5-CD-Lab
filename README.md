@@ -1,5 +1,5 @@
 # Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
-# NAME:Kailash S M
+# NAME:Kailash S m
 # reg.no:212222040068
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
 
